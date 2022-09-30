@@ -1,6 +1,6 @@
 # Stacy's Portfolio
 
-- Click here to learn more about me
+- Click [here](tellMeAboutYourself.md) to learn more about me.
 
 ## Gather your assets
 <hr>
